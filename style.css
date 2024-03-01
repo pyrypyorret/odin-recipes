@@ -1,0 +1,37 @@
+/* Main page style */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#title{
+    text-align: center;
+}
+
+.recipes {
+    text-align: center;
+    background-color: #0000005F;
+    border-radius: 15px;
+    width: 300px;
+    margin: auto;
+}
+
+#menu{
+    margin: 0%;
+    text-decoration: underline;
+    
+}
+/* Recipe page style */
+#recipe-title{
+    font-size: 72px;
+    text-decoration: underline;
+}
+.ingredients,
+.steps{
+    background-color: #005FFF5F;
+    border-radius: 15px;
+    padding: 10px;
+    width: fit-content;
+    margin: 10px;
+}
+
+
